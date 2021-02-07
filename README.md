@@ -2,7 +2,7 @@
 
 [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://mkmahto2.github.io/mkmahto12.github.io/) 
 
-[<img src ="./assets/img/test.gif">](https://pr2tik1.github.io/) 
+
 
 View my portfolio through badge above. To connect follow the links below. Support my work and become a star-gazer. If you are using this portfolio as template please do give credits. Happy Coding! Thank-you! 
 
